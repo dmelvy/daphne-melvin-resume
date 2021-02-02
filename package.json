@@ -1,0 +1,23 @@
+{
+  "name": "dmelvy-resume",
+  "version": "1.0.0",
+  "description": "Daphne Melvin's Resume",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github.com/dmelvy.git"
+  },
+  "author": "Daphne Melvin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/github.com/dmelvy/issues"
+  },
+  "homepage": "https://github.com/github.com/dmelvy#readme"
+}
+
+"bin": {
+  resume-me: "./index.js"
+},
