@@ -15,9 +15,11 @@
   "bugs": {
     "url": "https://github.com/github.com/dmelvy/issues"
   },
-  "homepage": "https://github.com/github.com/dmelvy#readme"
+  "homepage": "https://github.com/github.com/dmelvy#readme",
+  "bin": {
+    "resume-me": "./index.js"
+  },
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
 }
-
-"bin": {
-  resume-me: "./index.js"
-},
